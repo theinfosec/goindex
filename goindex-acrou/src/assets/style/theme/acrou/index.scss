@@ -84,7 +84,8 @@ body {
 }
 
 .no-content {
-  background: url(#{$cdnPath}images/no-data.png) no-repeat 50% 50%;
+  //background: url(#{$cdnPath}images/no-data.png) no-repeat 50% 50%;
+  background: url(https://raw.githubusercontent.com/theinfosec/goindex/master/goindex-acrou/public/images/no-data.png) no-repeat 50% 50%;
   height: 240px;
   line-height: 240px;
   text-align: center;
